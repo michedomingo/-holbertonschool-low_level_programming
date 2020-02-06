@@ -6,3 +6,4 @@ main.s
 cisfun
 -o
 a.out
+size64

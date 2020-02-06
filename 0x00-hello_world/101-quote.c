@@ -3,8 +3,8 @@
 #include "unistd.h"
 
 /**
- *main - print a string without printf or puts
- *Return: 1
+ * main - print a string without printf or puts
+ * Return: 1
  */
 
 int main(void)
@@ -14,5 +14,5 @@ int main(void)
 	i = strlen("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
 
 	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", i);
-	return (0);
+	return (1);
 }

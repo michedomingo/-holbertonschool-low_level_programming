@@ -1,0 +1,10 @@
+*~
+c
+main.c
+main.o
+main.s
+cisfun
+-o
+a.out
+size64
+template.c

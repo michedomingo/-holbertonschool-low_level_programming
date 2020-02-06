@@ -3,3 +3,5 @@ c
 main.c
 main.o
 main.s
+cisfun
+-o

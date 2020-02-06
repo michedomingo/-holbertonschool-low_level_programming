@@ -13,7 +13,7 @@ int main(void)
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
-		if (i == 'i' || i == 'q')
+		if (i == 'e' || i == 'q')
 			;
 		else
 			putchar (i);

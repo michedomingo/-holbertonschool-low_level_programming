@@ -7,7 +7,7 @@
 ___
 <a name="hello"></a>
 
-## 🤓 Learning Objectives
+### 🤓 Learning Objectives
 - [ ] Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 - [ ] Who invented C
 - [ ] Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
@@ -25,5 +25,6 @@ ___
 <a name="tasks"></a>
 ## Tasks
 > All scripts must be executable and exactly two lines long.
+
 *WIP
 ___

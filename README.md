@@ -9,7 +9,7 @@ ___
 <a name="hello"></a>
 # [0x00. C - Hello, World](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x00-hello_world)
 
-## 🤓 Learning Objectives
+### 🤓 Learning Objectives
 - [ ] Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 - [ ] Who invented C
 - [ ] Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
@@ -27,7 +27,7 @@ ___
 <a name="variables"></a>
 # [0x01. C - Variables, if, else, while](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x01-variables_if_else_while)
 
-## 🤓 Learning Objectives
+### 🤓 Learning Objectives
 - [ ] What are the arithmetic operators and how to use them
 - [ ] What are the logical operators (sometimes called boolean operators) and how to use them
 - [ ] What the the relational operators and how to use them
@@ -47,7 +47,7 @@ ___
 <a name="functions1"></a>
 # [0x02. C - Functions, nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x02-functions_nested_loop)
 
-## 🤓 Learning Objectives
+### 🤓 Learning Objectives
 - [ ] What are pointers and how to use them
 - [ ] What are arrays and how to use them
 - [ ] What are the differences between pointers and arrays
@@ -60,5 +60,4 @@ ___
 - [ ] Scope of variables
 - [ ] What are the gcc flags -Wall -Werror -pedantic -Wextra
 - [ ] What are header files and how to to use them with #include
-
 ___

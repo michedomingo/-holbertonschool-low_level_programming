@@ -7,7 +7,7 @@
 ___
 <a name="variables"></a>
 
-## 🤓 Learning Objectives
+### 🤓 Learning Objectives
 - [ ] What are the arithmetic operators and how to use them
 - [ ] What are the logical operators (sometimes called boolean operators) and how to use them
 - [ ] What the the relational operators and how to use them
@@ -27,5 +27,6 @@ ___
 <a name="tasks"></a>
 ## Tasks
 > All scripts must be executable and exactly two lines long.
+
 *WIP
 ___

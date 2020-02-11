@@ -45,7 +45,7 @@ ___
 - [ ] What are the purpose of the gcc flags -m32 and -m64
 ___
 <a name="functions1"></a>
-# [0x02. C - Functions, nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x02-functions_nested_loop)
+# [0x02. C - Functions, nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x02-functions_nested_loops)
 
 ### 🤓 Learning Objectives
 - [ ] What are pointers and how to use them

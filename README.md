@@ -5,6 +5,8 @@
 - [0x00. C - Hello, World](https://github.com/michedomingo/holbertonschool-low_level_programming/#hello)
 - [0x01. C - Variables, if, else, while](https://github.com/michedomingo/holbertonschool-low_level_programming/#variables)
 - [0x02. C - Functions, nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/#functions1)
+- [0x03. C - Debugging](https://github.com/michedomingo/holbertonschool-low_level_programming/#debug)
+- [0x04. C - More functions, more nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/#functions2)
 ___
 <a name="hello"></a>
 # [0x00. C - Hello, World](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x00-hello_world)
@@ -53,6 +55,26 @@ ___
 - [ ] What are the differences between pointers and arrays
 - [ ] How to use strings and how to manipulate them
 - [ ] Scope of variables
+- [ ] What are nested loops and how to use them
+- [ ] What is a function and how do you use functions
+- [ ] What is the difference between a declaration and a definition of a function
+- [ ] What is a prototype
+- [ ] Scope of variables
+- [ ] What are the gcc flags -Wall -Werror -pedantic -Wextra
+- [ ] What are header files and how to to use them with #include
+___
+<a name="debug"></a>
+# [0x03. C - Debugging](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x03-debugging)
+
+### 🤓 Learning Objectives
+- [ ] What is debugging
+- [ ] What are some methods of debugging manually
+- [ ] How to read the error messages
+___
+<a name="functions2"></a>
+# [0x04. C - More functions, more nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x04-more_functions_nested_loops)
+
+### 🤓 Learning Objectives
 - [ ] What are nested loops and how to use them
 - [ ] What is a function and how do you use functions
 - [ ] What is the difference between a declaration and a definition of a function

@@ -23,7 +23,7 @@ ___
 ___
 <a name="tasks"></a>
 ## Tasks
-> You are not allowed to use the standard library. Any use of functions like printf, puts, etc… is forbidden (unless permitted in task instructions). 
+> You are not allowed to use the standard library. Any use of functions like printf, puts, etc… is forbidden (unless permitted in task instructions).
 
 #### File: [0-holberton.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x02-functions_nested_loops/0-holberton.c)
 - Write a program that prints Holberton.

@@ -24,31 +24,31 @@ ___
 - Write a function that checks for uppercase character.
 - Return: 1 if uppercase, otherwise 0
 
-#### File: [1-isdigit.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/1-isdigit.c)
+#### File: [1-isdigit.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/1-isdigit.c)
 - Write a function that checks for a digit (0 through 9).
 - Return: 1 if uppercase, otherwise 0
 
-#### File: [2-mul.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/2-mul.c)
+#### File: [2-mul.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/2-mul.c)
 - Write a function that multiplies two integers.
 
-#### File: [3-print_numbers.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/3-print_numbers.c)
+#### File: [3-print_numbers.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/3-print_numbers.c)
 - Write a function that prints the numbers, from 0 to 9, followed by a new line.- You can only use _putchar twice
 
-#### File: [4-print_most_numbers.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/4-print_most_numbers.c])
+#### File: [4-print_most_numbers.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/4-print_most_numbers.c])
 - Write a function that prints the numbers, from 0 to 9.
 - Do not print 2 and 4
 - You can only use _putchar twice
 
-#### File: [5-more_numbers.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/5-more_numbers.c)
+#### File: [5-more_numbers.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/5-more_numbers.c)
 - Write a function that prints 10 times the numbers, from 0 to 14.
 - You can only use _putchar three times
 
-#### File: [6-print_line.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/6-print_line.c)
+#### File: [6-print_line.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/6-print_line.c)
 - Write a function that draws a straight line in the terminal.
 - Where n is the number of times the character _ should be printed
 - If n is 0 or less, the function should only print \n
 
-#### File: [7-print_diagonal.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/7-print_diagonal.c)
+#### File: [7-print_diagonal.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/7-print_diagonal.c)
 - Write a function that draws a diagonal line on the terminal.
 - Where n is the number of times the character \ should be printed
 - The diagonal should end with a \n
@@ -60,14 +60,14 @@ ___
 - If size is 0 or less, the function should print only a new line
 - Use the character # to print the square
 
-#### File: [9-fizz_buzz.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/9-fizz_buzz.c)
+#### ile: [9-fizz_buzz.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/9-fizz_buzz.c)
 - Write a program that prints the numbers from 1 to 100.
 - For multiples of three print Fizz instead of the number and for the multiples of five print Buzz.
 - For numbers which are multiples of both three and five print FizzBuzz.
 - Each number or word should be separated by a space.
 - You are allowed to use the standard library.
 
-#### File: [10-print_triangle.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/10-print_triangle.c)
+#### File: [10-print_triangle.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x04-more_functions_nested_loops/10-print_triangle.c)
 - Write a function that prints a triangle.
 - Where size is the size of the triangle
 - If size is 0 or less, the function should print only a new line

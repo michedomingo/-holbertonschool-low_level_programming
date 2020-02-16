@@ -22,7 +22,7 @@ ___
 - [ ] What are header files and how to to use them with #include
 ___
 <a name="tasks"></a>
-## Tasks
+### Tasks
 > You are not allowed to use the standard library. Any use of functions like printf, puts, etc… is forbidden (unless permitted in task instructions).
 
 #### File: [0-holberton.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x02-functions_nested_loops/0-holberton.c)

@@ -44,7 +44,7 @@ ___
 - Write a function that checks for alphabetic character, lowercase or uppercase.
 - Return: 1 if c is a letter, otherwise 0
 
-###3 File: [5-sign.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x02-functions_nested_loops/5-sign.c)
+#### File: [5-sign.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x02-functions_nested_loops/5-sign.c)
 - Write a function that prints the sign of a number.
 - Returns 1 and prints + if n is greater than zero
 - Returns 0 and prints 0 if n is zero

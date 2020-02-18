@@ -2,8 +2,8 @@
 > Holberton School, Foundations Curiculum: Low-level Programming & Algorithm - Hatching out
 
 ### Contents
-- [Learning Objectives](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05. C - Pointers, arrays and strings/#pointers1)
-- [Tasks](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05. C - Pointers, arrays and strings/#tasks)
+- [Learning Objectives](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings/#pointers1)
+- [Tasks](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings/#tasks)
 ___
 <a name="pointers1"></a>
 

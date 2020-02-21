@@ -10,8 +10,8 @@ char *rot13(char *s)
 {
 	int i, j;
 
-	char box1[] = "aeotl";
-	char box2[] = "AEOTL";
+	char box1[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+	char box2[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
 	for (i = 0; s[i] != '\0'; i++)
 	{

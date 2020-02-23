@@ -30,4 +30,7 @@ ___
 
 #### File: [3-print_remaining_days.c](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c), [holberton.h](https://github.com/michedomingo/holbertonschool-low_level_programming/blob/master/0x03-debugging/holberton.h)
 - Fix the print_remaining_days() function so that the output works correctly for all dates and all leap years.
-___
+---
+
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

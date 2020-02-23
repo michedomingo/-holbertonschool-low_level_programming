@@ -72,4 +72,7 @@ ___
 - Where size is the size of the triangle
 - If size is 0 or less, the function should print only a new line
 - Use the character # to print the triangle
-___
+---
+
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

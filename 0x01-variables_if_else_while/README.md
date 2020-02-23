@@ -70,4 +70,7 @@ ___
 - Write a program that prints the numbers from 00 to 99, in ascending order, with two digits.
 - Numbers must be separated by ,, followed by a space
 - You can only use putchar five times
-___
+---
+
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

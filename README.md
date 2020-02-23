@@ -87,8 +87,7 @@ ___
 - [ ] What are header files and how to to use them with #include
 ___
 <a name="pointers"></a>
-# [0x05. C - Pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings)
-# [0x06. C - More pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+# [0x05. C - Pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings)<br>[0x06. C - More pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 
 
 ### 🤓 Learning Objectives

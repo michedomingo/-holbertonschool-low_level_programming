@@ -18,7 +18,7 @@ int prime_checker(int i, int j)
 }
 
 /**
- * is_prime_number - eturns 1 if input integer is a prime number
+ * is_prime_number - returns 1 if input integer is a prime number
  * @n: int number
  * Return: 0 if not prime, otherwise 1 if prime
  */

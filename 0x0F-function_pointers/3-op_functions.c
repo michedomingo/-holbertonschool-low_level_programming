@@ -1,25 +1,61 @@
 #include "3-calc.h"
 
 /**
- * get_op_func - selects the correct function to perform
- * @s: operator passed from main
- * Return: pointer to function that corresponds to operator
+ * op_add - adds integers
+ * @a: int type to add
+ * @b: int type to add
+ * Return: sum of two int
  */
 
-int (*get_op_func(char *s))(int, int)
+int op_add(int a, int b)
 {
-	op_t ops[] = {
-		{"+", op_add},
-		{"-", op_sub},
-		{"*", op_mod},
-		{NULL, NULL}
-	};
-	int i;
+	return (a + b);
+}
 
-	i = 0;
-	while (ops[i].op != NULL && strcmp(ops[i].op, s) != 0)
-	{
-		i++;
-	}
-	return (ops[i].f);
+/**
+ * op_sub - subtracts integers
+ * @a: int type to subtract
+ * @b: int type to subtract
+ * Return: difference of two int
+ */
+
+int op_sub(int a, int b)
+{
+	return (a - b);
+}
+
+/**
+ * op_mul - multiply integers
+ * @a: int type to multiply
+ * @b: int type to multiply
+ * Return: product of two int
+ */
+
+int op_mul(int a, int b)
+{
+	return (a * b);
+}
+
+/**
+ * op_div - divides integers
+ * @a: int type to divide
+ * @b: int type to divide
+ * Return: quotient of two int
+ */
+
+int op_div(int a, int b)
+{
+	return (a / b);
+}
+
+/**
+ * op_mod - modulos of integers
+ * @a: int type
+ * @b: int type
+ * Return: modulos of two int
+ */
+
+int op_mod(int a, int b)
+{
+	return (a % b);
 }

@@ -7,8 +7,10 @@
 - [0x02. C - Functions, nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/#functions1)
 - [0x03. C - Debugging](https://github.com/michedomingo/holbertonschool-low_level_programming/#debug)
 - [0x04. C - More functions, more nested loops](https://github.com/michedomingo/holbertonschool-low_level_programming/#functions2)
-- [0x05. C - Pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/#pointers)
-- [0x06. C - More pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/#pointers)
+- [0x05. C - Pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/#pointers1)
+- [0x06. C - More pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/#pointers1)
+- [0x07. C - Even more pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/#pointers2)
+- [0x08. C - Recursion](https://github.com/michedomingo/holbertonschool-low_level_programming/#recursion)
 
 ___
 <a name="hello"></a>
@@ -86,9 +88,8 @@ ___
 - [ ] What are the gcc flags -Wall -Werror -pedantic -Wextra
 - [ ] What are header files and how to to use them with #include
 ___
-<a name="pointers"></a>
+<a name="pointers1"></a>
 # [0x05. C - Pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings)<br>[0x06. C - More pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings)
-
 
 ### 🤓 Learning Objectives
 - [ ] What are nested loops and how to use them
@@ -97,6 +98,23 @@ ___
 - [ ] What are the differences between pointers and arrays
 - [ ] How to use strings and how to manipulate them
 - [ ] Scope of variables
+___
+<a name="pointers2"></a>
+# [0x07. C - Even more pointers, arrays and strings](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+
+### 🤓 Learning Objectives
+- [ ] What are pointers to pointers and how to use them
+- [ ] What are multidimensional arrays and how to use them
+- [ ] What are the most common C standard library functions to manipulate strings
+___
+<a name="recursion"></a>
+# [0x08. C - Recursion](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x08-recursion)
+
+### 🤓 Learning Objectives
+- [ ] What is recursion
+- [ ] How to implement recursion
+- [ ] In what situations you should implement recursion
+- [ ] In what situations you shouldn’t implement recursion
 ___
 ## Author
 * **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

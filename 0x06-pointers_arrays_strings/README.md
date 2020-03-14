@@ -3,7 +3,7 @@
 
 ### Contents
 - [Learning Objectives](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings/#pointers2)
-- [Tasks](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings/#tasks)
+- [Tasks](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings/#tasks)
 ___
 <a name="pointers2"></a>
 

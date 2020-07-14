@@ -12,12 +12,12 @@
 * You are not allowed to use system
 * Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
-### C
-* YAllowed editors: vi, vim, emacs
-* YAll your scripts will be tested on Ubuntu 14.04 LTS
-* YAll your scripts should be exactly two lines long ($ wc -l file should print 2)
-* YAll your files should end with a new line
-* YThe first line of all your files should be exactly #!/bin/bash
+### Shell Scripts
+* Allowed editors: vi, vim, emacs
+* All your scripts will be tested on Ubuntu 14.04 LTS
+* All your scripts should be exactly two lines long ($ wc -l file should print 2)
+* All your files should end with a new line
+* The first line of all your files should be exactly #!/bin/bash
 </details>
 
 <details><summary>Resources 💡</summary>

@@ -1,20 +1,29 @@
 # 0x01. C - Variables, if, else, while
 
 <details><summary>Project Requirements ☑️</summary>
-...
+
+* Allowed editors: vi, vim, emacs
+* * All your files will be compiled on Ubuntu 14.04 LTS
+* Your programs and functions will compiled with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
+* All your files should end with a new line
+* A README.md file, at the root of the folder of the project
+* There should be no errors and no warnings during compilation
+* You are not allowed to use system
+* Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 </details>
 
 <details><summary>Resources 💡</summary>
-* [Everything you need to know to start with C](https://intranet.hbtn.io/rltoken/lbqOMfcseEq0Y-7al_j1Ag)
-* [Keywords and identifiers](https://intranet.hbtn.io/rltoken/ckqC9BrBcMmv-DLmBauaWQ)
-* [integers](https://intranet.hbtn.io/rltoken/Oau_6LT7-3IIt5ew_3Ac6g)
-* [Arithmetic Operators in C](https://intranet.hbtn.io/rltoken/r4hrHzg2X9JjnKj8sP_SAw)
-* [If statements in C](https://intranet.hbtn.io/rltoken/W93uajwXtW3WOxOaeBtF-A)
-* [if…else statement](https://intranet.hbtn.io/rltoken/PMD6eKdkj2RmIpagtABihw)
-* [Relational operators](https://intranet.hbtn.io/rltoken/dCy4644-X_WJMYxRZwCfFQ)
-* [Logical operators](https://intranet.hbtn.io/rltoken/gJzJXQoEdEN1Oxcutp_76Q)
-* [while loop in C](https://intranet.hbtn.io/rltoken/Qhq1p5UcR72-VXFJ_iAqWQ)
-* [While loop](https://intranet.hbtn.io/rltoken/RY9a1EDxRKNNHhxbJ6Pn_g)
+
+* [Everything you need to know to start with C](https://docs.google.com/presentation/u/1/d/1ghto-TsXqgPRuEVmiCp7GvGttobdTLF4Yq8IRXwzvHY/edit#slide=id.p)
+* [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
+* [integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
+* [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+* [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
+* [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
+* [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+* [Logical operators](https://fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
+* [while loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+* [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 </details>
 
 #### Learning Objectives 🤓

@@ -1,12 +1,15 @@
 # 0x1C. C - Makefiles
 
-## Resources:books:
-Read or watch:
-* [Makefile](https://intranet.hbtn.io/rltoken/E3lCL-6xT3Qt_K38Tk4s_g)
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+<details><summary>Resources 💡</summary>
+
+* [Makefile](https://intranet.hbtn.io/rltoken/E3lCL-6xT3Qt_K38Tk4s_g)
+</details>
+
+#### Learning Objectives 🤓
 
 * What are make, Makefiles
 * When, why and how to use Makefiles
@@ -16,35 +19,72 @@ What you should learn from this project:
 * What are variables and how to set and use them
 
 ---
+## Tasks
 
 ### [0. make -f 0-Makefile](./0-Makefile)
-* Create your first Makefile.
+<details><summary>Create your first Makefile.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [1. make -f 1-Makefile](./1-Makefile)
-* Requirements:
+<details><summary>Requirements:</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [2. make -f 2-Makefile](./2-Makefile)
-* Create your first useful Makefile.
+<details><summary>Create your first useful Makefile.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [3. make -f 3-Makefile](./3-Makefile)
-* Requirements:
+<details><summary>Requirements:</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [4. A complete Makefile](./4-Makefile)
-* Requirements:
+<details><summary>Requirements:</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [5. Island Perimeter](./5-island_perimeter.py)
-* Technical interview preparation: 
+<details><summary>Technical interview preparation:</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [6. make -f 100-Makefile](./100-Makefile)
-* Requirements:
+<details><summary>Requirements:</summary><br>
+
+* 
+```
+
+```
+</details>
 
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)

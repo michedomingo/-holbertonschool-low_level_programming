@@ -27,153 +27,153 @@
 ## Tasks
 
 ### [0. _putchar](./0-holberton.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a program that prints Holberton, followed by a new line.</summary><br>
 
-* Write a program that prints Holberton, followed by a new line.
+* 
 ```
 
 ```
 </details>
 
 ### [1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](./1-alphabet.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints the alphabet, in lowercase, followed by a new line.</summary><br>
 
-* Write a function that prints the alphabet, in lowercase, followed by a new line.
+* 
 ```
 
 ```
 </details>
 
 ### [2. 10 x alphabet](./2-print_alphabet_x10.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.</summary><br>
 
-* Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
+* 
 ```
 
 ```
 </details>
 
 ### [3. islower](./3-islower.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that checks for lowercase character.</summary><br>
 
-* Write a function that checks for lowercase character. 
+* 
 ```
 
 ```
 </details>
 
 ### [4. isalpha](./4-isalpha.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that checks for alphabetic character. </summary><br>
 
-* Write a function that checks for alphabetic character. 
+* 
 ```
 
 ```
 </details>
 
 ### [5. Sign](./5-sign.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints the sign of a number.</summary><br>
 
-* Write a function that prints the sign of a number.
+* 
 ```
 
 ```
 </details>
 
 ### [6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you](./6-abs.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that computes the absolute value of an integer.</summary><br>
 
-* Write a function that computes the absolute value of an integer.
+* 
 ```
 
 ```
 </details>
 
 ### [7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](./7-print_last_digit.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints the last digit of a number.</summary><br>
 
-* Write a function that prints the last digit of a number.
+* 
 ```
 
 ```
 </details>
 
 ### [8. I'm federal agent Jack Bauer, and today is the longest day of my life](./8-24_hours.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.</summary><br>
 
-* Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+* 
 ```
 
 ```
 </details>
 
 ### [9. Learn your times table](./9-times_table.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints the 9 times table, starting with 0.</summary><br>
 
-* Write a function that prints the 9 times table, starting with 0.
+* 
 ```
 
 ```
 </details>
 
 ### [10. a + b](./10-add.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that adds two integers and returns the result.</summary><br>
 
-* Write a function that adds two integers and returns the result.
+* 
 ```
 
 ```
 </details>
 
 ### [11. Holberton School, 98 Battery Street, the OG](./11-print_to_98.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints all natural numbers from n to 98, followed by a new line.</summary><br>
 
-* Write a function that prints all natural numbers from n to 98, followed by a new line.
+* 
 ```
 
 ```
 </details>
 
 ### [12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself](./100-times_table.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a function that prints the n times table, starting with 0.</summary><br>
 
-* Write a function that prints the n times table, starting with 0.
+* 
 ```
 
 ```
 </details>
 
 ### [13. Nature made the natural numbers; All else is the work of women](./101-natural.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded)</summary><br>
 
-* If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+* If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 ```
 
 ```
 </details>
 
 ### [14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A](./102-fibonacci.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.</summary><br>
 
-* Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+* 
 ```
 
 ```
 </details>
 
 ### [15. Even Liber Abbaci](./103-fibonacci.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a program that finds and prints the sum of the even-valued terms.</summary><br>
 
-* Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, write a program that finds and prints the sum of the even-valued terms, followed by a new line.
+* Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000.
 ```
 
 ```
 </details>
 
 ### [16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+](./104-fibonacci.c)
-<details><summary>Instructions</summary>
+<details><summary>Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.</summary><br>
 
-* Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+* 
 ```
 
 ```

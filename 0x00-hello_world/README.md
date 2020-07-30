@@ -36,7 +36,6 @@
 
 #### Learning Objectives 🤓
 
-* Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 * Who invented C
 * Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
 * What happens when you type gcc main.c
@@ -54,7 +53,7 @@
 ## Tasks
 
 ### [0. Preprocessor](./0-preprocessor)
-<details><summary>Write a script that runs a C file through the preprocessor and save the result into another file.</summary>
+<details><summary>Write a script that runs a C file through the preprocessor and save the result into another file.</summary><br>
 
 * The C file name will be saved in the variable $CFILE
 * The output should be saved in the file c
@@ -89,7 +88,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [1. Compiler](./1-compiler)
-<details><summary>Write a script that compiles a C file but does not link.</summary>
+<details><summary>Write a script that compiles a C file but does not link.</summary><br>
 
 * The C file name will be saved in the variable $CFILE
 * The output file should be named the same as the C file, but with the extension .o instead of .c
@@ -118,7 +117,7 @@ julien@ubuntu:~/c/0x00$ cat -v main.o | head
 </details>
 
 ### [2. Assembler](./2-assembler)
-<details><summary>Write a script that generates the assembly code of a C code and save it in an output file.</summary>
+<details><summary>Write a script that generates the assembly code of a C code and save it in an output file.</summary><br>
 
 * The C file name will be saved in the variable $CFILE
 * The output file should be named the same as the C file, but with the extension .s instead of .c
@@ -166,7 +165,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [3. Name](./3-name)
-<details><summary>Write a script that compiles a C file and creates an executable named cisfun.</summary>
+<details><summary>Write a script that compiles a C file and creates an executable named cisfun.</summary><br>
 
 * The C file name will be saved in the variable $CFILE
 ```
@@ -192,7 +191,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [4. Hello, puts](./4-puts.c)
-<details><summary>Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.</summary>
+<details><summary>Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.</summary><br>
 
 * Use the function puts
 * You are not allowed to use printf
@@ -207,7 +206,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [5. Hello, printf](./5-printf.c)
-<details><summary>Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.</summary>
+<details><summary>Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.</summary><br>
 
 * Use the function printf
 * You are not allowed to use the function puts
@@ -224,7 +223,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [6. Size is not grandeur, and territory does not make a nation](./6-size.c)
-<details><summary>Write a C program that prints the size of various types on the computer it is compiled and run on.</summary>
+<details><summary>Write a C program that prints the size of various types on the computer it is compiled and run on.</summary><br>
 
 * You should produce the exact same output as in the example
 * Warnings are allowed
@@ -252,7 +251,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [7. What happens when you type gcc main.c](https://medium.com/@michedomingo/compiling-a-c-program-b0d585fe0b25l)
-<details><summary>Write a blog post that explains all the steps of compilation. Use command lines and examples to illustrate.</summary>
+<details><summary>Write a blog post that explains all the steps of compilation. Use command lines and examples to illustrate.</summary><br>
 
 * Use gcc as the compiler
 * Have at least one picture, at the top of the blog post
@@ -265,7 +264,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [8. Intel](./100-intel)
-<details><summary>Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.</summary>
+<details><summary>Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.</summary><br>
 
 * The C file name will be saved in the variable $CFILE.
 * The output file should be named the same as the C file, but with the extension .s instead of .c
@@ -312,7 +311,7 @@ julien@ubuntu:~/c/0x00$
 </details>
 
 ### [9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity](./101-quote.c)
-<details><summary>Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.</summary>
+<details><summary>Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.</summary><br>
 
 * You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts
 * Your program should return 1

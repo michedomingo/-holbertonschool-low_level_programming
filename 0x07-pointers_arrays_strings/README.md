@@ -1,62 +1,115 @@
 # 0x07. C - Even more pointers, arrays and strings
-> Holberton School, Foundations Curiculum: Low-level Programming & Algorithm - Hatching out
 
-### Contents
-- [Learning Objectives](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x07-pointers_arrays_strings/#pointers2)
-- [Tasks](https://github.com/michedomingo/holbertonschool-low_level_programming/tree/master/0x07-pointers_arrays_strings/#tasks)
-___
-<a name="pointers2"></a>
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
 
-### 🤓 Learning Objectives
-- [ ] What are pointers to pointers and how to use them
-- [ ] What are multidimensional arrays and how to use them
-- [ ] What are the most common C standard library functions to manipulate strings
+<details><summary>Resources 💡</summary>
+
+* [C - Pointer to Pointer](https://intranet.hbtn.io/rltoken/97ic1ots5Y44UW4c5HBtRQ)
+* [C – Pointer to Pointer with example](https://intranet.hbtn.io/rltoken/SLQf1I04zyLrA0OYFgXzlg)
+* [Multi-dimensional Arrays in C](https://intranet.hbtn.io/rltoken/OINOASSTk6-D9PqX2oZZYw)
+* [Two dimensional (2D) arrays in C programming with example](https://intranet.hbtn.io/rltoken/czf9xxN9_8ISUNWTsLfBcw)
+
+#### Learning Objectives 🤓
+
+* What are pointers to pointers and how to use them
+* What are multidimensional arrays and how to use them
+* What are the most common C standard library functions to manipulate strings
 
 ---
-<a name="tasks"></a>
-### Tasks
-> You are not allowed to use the standard library, nor global variables. Any use of functions like printf, puts, etc… is forbidden (unless permitted in task instructions).
+## Tasks
 
-#### File: [0. memset](./0-memset.c)
-* Write a function that fills memory with a constant byte.
+### [0. memset](./0-memset.c)
+<details><summary>Write a function that fills memory with a constant byte.</summary><br>
 
+* 
+```
 
-#### File: [1. memcpy](./1-memcpy.c)
-* Write a function that copies memory area.
+```
+</details>
 
+### [1. memcpy](./1-memcpy.c)
+<details><summary>Write a function that copies memory area.</summary><br>
 
-#### File: [2. strchr](./2-strchr.c)
-* Write a function that locates a character in a string.
+* 
+```
 
+```
+</details>
 
-#### File: [3. strspn](./3-strspn.c)
-* Write a function that gets the length of a prefix substring.
+### [2. strchr](./2-strchr.c)
+<details><summary>Write a function that locates a character in a string.</summary><br>
 
+* 
+```
 
-#### File: [4. strpbrk](./4-strpbrk.c)
-* Write a function that searches a string for any of a set of bytes.
+```
+</details>
 
+### [3. strspn](./3-strspn.c)
+<details><summary>Write a function that gets the length of a prefix substring.</summary><br>
 
-#### File: [5. strstr](./5-strstr.c)
-* Write a function that locates a substring.
+* 
+```
 
+```
+</details>
 
-#### File: [6. Chess is mental torture](./7-print_chessboard.c)
-* Write a function that prints the chessboard.
+### [4. strpbrk](./4-strpbrk.c)
+<details><summary>Write a function that searches a string for any of a set of bytes.</summary><br>
 
+* 
+```
 
-#### File: [7. The line of life is a ragged diagonal between duty and desire](./8-print_diagsums.c)
-* Write a function that prints the sum of the two diagonals of a square matrix of integers.
+```
+</details>
 
+### [5. strstr](./5-strstr.c)
+<details><summary>Write a function that locates a substring.</summary><br>
 
-#### File: [8. Double pointer, double fun](./9-set_string.c)
-* Write a function that sets the value of a pointer to a char.
+* 
+```
 
+```
+</details>
 
-#### File: [9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure](./101-crackme_password)
-* Create a file that contains the password for the crackme2  executable.
+### [6. Chess is mental torture](./7-print_chessboard.c)
+<details><summary>Write a function that prints the chessboard.</summary><br>
 
+* 
+```
+
+```
+</details>
+
+### [7. The line of life is a ragged diagonal between duty and desire](./8-print_diagsums.c)
+<details><summary>Write a function that prints the sum of the two diagonals of a square matrix of integers.</summary><br>
+
+* 
+```
+
+```
+</details>
+
+### [8. Double pointer, double fun](./9-set_string.c)
+<details><summary>Write a function that sets the value of a pointer to a char.</summary><br>
+
+* 
+```
+
+```
+</details>
+
+### [9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure](./101-crackme_password)
+<details><summary>Create a file that contains the password for the crackme2  executable.</summary><br>
+
+* 
+```
+
+```
+</details>
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
